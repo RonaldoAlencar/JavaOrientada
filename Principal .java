@@ -69,5 +69,5 @@ public class Principal {
         System.out.println("Apresentado média,frequência e situação !");
         exibe.exibeMedia(Nome,Media1,Media2,Media,Frequencia,P);
     }
-    
+    System.out.println("gay");
 }
